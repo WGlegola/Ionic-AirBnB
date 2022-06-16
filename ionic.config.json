@@ -1,0 +1,7 @@
+{
+  "name": "IonicAirBnB",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
